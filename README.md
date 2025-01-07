@@ -9,6 +9,7 @@ Bu proje, ağ trafiğini gerçek zamanlı olarak izleyen ve kullanıcıya ağdak
 - Trafik verilerinin görselleştirilmesi
 - Şüpheli IP adresi uyarıları
 - JSON dosyasına veri kaydetme
+- Özelleştirilmiş uygulama ikonu
 
 ## 🚀 Kullanım
 1. Projeyi klonlayın:
@@ -21,6 +22,9 @@ Bu proje, ağ trafiğini gerçek zamanlı olarak izleyen ve kullanıcıya ağdak
 - scapy
 - matplotlib
 - tkinter
+
+## 📥 İndir
+[Uygulamayı buradan indir](https://github.com/tunca32/network_monitor/releases/tag/v1.0)
 
 
 
